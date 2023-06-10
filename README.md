@@ -1,2 +1,3 @@
 # ilk-projem
- bu benim ilk commit im
+branch den yaptığım ilk değişiklik
+bu yeni branchimde ilk commit im
